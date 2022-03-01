@@ -1,7 +1,7 @@
 car_valuation
 ==============================
 
-An end-to-end machine learning project. To predict care prices given certain characteristics of the cars
+An end-to-end machine learning project. To predict car prices given certain characteristics of the cars
 
 Project Organization
 ------------
