@@ -1,0 +1,4 @@
+ASSUMPTIONS MADE
+1.I assume that the dataset is not clean, therefore I will have to clean and pre-process them before
+I begin Exploratory Data Analysis. 
+2. Exploratory analysis of the data will be made in order to understand the data
